@@ -1,5 +1,4 @@
 {
-  "posts": [
     {
       "name": 1,
       "email": "Post 1"
@@ -12,8 +11,6 @@
       "name": 4,
       "email": "lovewa"
     }
-  ],
-  "comments": [
     {
       "id": 1,
       "body": "com1",
@@ -24,8 +21,4 @@
       "body": "com2",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
 }
