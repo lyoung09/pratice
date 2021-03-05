@@ -15,13 +15,13 @@
   ],
   "comments": [
     {
-      "name": com1,
-      "email": "some comment",
+      "id": 1,
+      "body": "com1",
       "postId": 1
     },
     {
-      "name": com2,
-      "email": "some comment",
+      "id": 2,
+      "body": "com2",
       "postId": 1
     }
   ],
