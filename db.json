@@ -1,5 +1,10 @@
 {
-    "name": "bebe",
-    "email": "lovewaston@naver.com"
-    
-}
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
