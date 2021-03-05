@@ -1,4 +1,4 @@
-{
+[
     {
       "name": 1,
       "email": "Post 1"
@@ -21,4 +21,4 @@
       "body": "com2",
       "postId": 1
     }
-}
+]
