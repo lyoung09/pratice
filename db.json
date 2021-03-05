@@ -1,13 +1,8 @@
-
-    {
-      "name": 1,
-      "email": "Post 1"
-    },
-    {
-      "name": 2,
-      "email": "Post 2"
-    },
-    {
-      "name": 4,
-      "email": "lovewa"
-    }
+{
+    "city": "Mumbai",
+    "streets": [
+      "address1",
+      "address2"
+    ]
+  }
+  
